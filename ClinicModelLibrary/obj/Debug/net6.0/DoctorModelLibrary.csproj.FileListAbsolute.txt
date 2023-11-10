@@ -1,0 +1,11 @@
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\bin\Debug\net6.0\DoctorModelLibrary.deps.json
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\bin\Debug\net6.0\DoctorModelLibrary.dll
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\bin\Debug\net6.0\DoctorModelLibrary.pdb
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.AssemblyInfoInputs.cache
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.AssemblyInfo.cs
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.dll
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\refint\DoctorModelLibrary.dll
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\DoctorModelLibrary.pdb
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicModelLibrary\obj\Debug\net6.0\ref\DoctorModelLibrary.dll

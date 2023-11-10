@@ -1,0 +1,5 @@
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicDALLibrary\obj\Debug\net6.0\DoctorDALLibrary.csproj.AssemblyReference.cache
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicDALLibrary\obj\Debug\net6.0\DoctorDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicDALLibrary\obj\Debug\net6.0\DoctorDALLibrary.AssemblyInfoInputs.cache
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicDALLibrary\obj\Debug\net6.0\DoctorDALLibrary.AssemblyInfo.cs
+C:\Users\Kusuma\Practice\ClinicDoctorSolutions\ClinicDALLibrary\obj\Debug\net6.0\DoctorDALLibrary.csproj.CoreCompileInputs.cache

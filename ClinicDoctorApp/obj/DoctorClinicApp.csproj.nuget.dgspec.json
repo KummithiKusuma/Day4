@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDoctorApp\\DoctorClinicApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicBLLibrary\\DoctorBLLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicBLLibrary\\DoctorBLLibrary.csproj",
+        "projectName": "DoctorBLLibrary",
+        "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicBLLibrary\\DoctorBLLibrary.csproj",
+        "packagesPath": "C:\\Users\\Kusuma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicBLLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kusuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDALLibrary\\DoctorDALLibrary.csproj": {
+                "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDALLibrary\\DoctorDALLibrary.csproj"
+              },
+              "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj": {
+                "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDALLibrary\\DoctorDALLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDALLibrary\\DoctorDALLibrary.csproj",
+        "projectName": "DoctorDALLibrary",
+        "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDALLibrary\\DoctorDALLibrary.csproj",
+        "packagesPath": "C:\\Users\\Kusuma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDALLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kusuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj": {
+                "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDoctorApp\\DoctorClinicApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDoctorApp\\DoctorClinicApp.csproj",
+        "projectName": "DoctorClinicApp",
+        "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDoctorApp\\DoctorClinicApp.csproj",
+        "packagesPath": "C:\\Users\\Kusuma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicDoctorApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kusuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicBLLibrary\\DoctorBLLibrary.csproj": {
+                "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicBLLibrary\\DoctorBLLibrary.csproj"
+              },
+              "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj": {
+                "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj",
+        "projectName": "DoctorModelLibrary",
+        "projectPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\DoctorModelLibrary.csproj",
+        "packagesPath": "C:\\Users\\Kusuma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kusuma\\Practice\\ClinicDoctorSolutions\\ClinicModelLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kusuma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
